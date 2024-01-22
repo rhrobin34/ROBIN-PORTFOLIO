@@ -48,3 +48,7 @@ h2{
     box-shadow : 10px 10px 40px rgb(130, 20, 255);
     border-left: 7px solid blue;
 }
+footer
+{
+    text-align: center;
+}
